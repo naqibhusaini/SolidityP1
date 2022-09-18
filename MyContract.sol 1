@@ -1,6 +1,0 @@
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-contract MyContract {
- string public myString = 'hello world!';
-}
-this is stage 1 of create smart contract.
